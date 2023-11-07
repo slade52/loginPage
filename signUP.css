@@ -4,7 +4,7 @@ body {
     color: cornsilk;
     background-position: center;
     background-size: cover;
-
+    display: flex;
 }
 
 input[type=username] ,input[type=password] {
